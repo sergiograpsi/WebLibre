@@ -20,3 +20,5 @@ certs/
 codenomad/
 native/go_mobile_runtime/.work/
 native/go_mobile_runtime/build/
+apps/weblibre/fase1-local.jks
+apps/weblibre/android/.kotlin/
